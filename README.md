@@ -26,3 +26,14 @@
 
 * F: Folder
 * f: File
+
+## How to use `.gitignore`
+
+The `.gitignore` file is to specify intentionally untracked files to ignore. For example, the files are
+
+* Too big (e.g. > 100mb)
+* Confidential
+* Not related with the project
+
+Please refer to the 'PATTERN FORMAT' in git-scm document: [Guide](https://git-scm.com/docs/gitignore).
+
