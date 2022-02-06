@@ -33,7 +33,7 @@ The `.gitignore` file is to specify intentionally untracked files to ignore. For
 
 * Too big (e.g. > 100mb)
 * Confidential
-* Not related with the project
+* Not related to the project
 
 Please refer to the 'PATTERN FORMAT' in git-scm document: [Guide](https://git-scm.com/docs/gitignore).
 
